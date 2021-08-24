@@ -1,15 +1,3 @@
-# anti-nuke
-Best protection against your server being completely ruined  
+This respority is messed up so you can't really think that its working i am making a new one!!
+if you are really using it please mentiomed Wreaking#5515 or get consequences
 
-
-# Download
-
-Download to zip, extract to desktop, open cmd and use cd path/to/folder, npm install, open index.js and put your token in client.login("token here"), then node . and it should be running.
-
-# Coming Soon
-
-Anti-Raid
-
-# How To Bypass
-
-**time.sleep(2)**
